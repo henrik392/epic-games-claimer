@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Epic Games Claimer",
+    "description": "Dette pogrammet sjekker om det er en dobbeltime i valgfag!",
+    "version": "1.0.0",
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "images/img16.png",
+            "32": "images/img32.png",
+            "48": "images/img48.png",
+            "128": "images/img128.png"
+        }
+    },
+    "icons": {
+        "16": "images/img16.png",
+        "32": "images/img32.png",
+        "48": "images/img48.png",
+        "128": "images/img128.png"
+    }
+}
