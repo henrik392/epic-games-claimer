@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Epic Games Claimer",
-    "description": "Dette pogrammet sjekker om det er en dobbeltime i valgfag!",
+    "description": "This program claims free games from epic games every week!",
     "version": "1.0.0",
     "browser_action": {
         "default_popup": "popup.html",
